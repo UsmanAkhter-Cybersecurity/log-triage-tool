@@ -1,17 +1,10 @@
-<br />
-<div align="center">
-  <h1>⚡ LOG TRIAGE TOOL ⚡</h1>
-  
-  <p>
-    <img src="https://img.shields.io/badge/STATUS-UNDER%20CONSTRUCTION-orange?style=for-the-badge&logo=github&logoColor=white" height="100" />
-  </p>
+# 🛠️ log-triage-tool
 
-  <p align="center">
-    <em>Automating brute-force detection, suspicious PowerShell executions, and credential dumping indicators.</em>
-  </p>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-under_construction-orange?style=for-the-badge&logo=github" height="100" />
+</p>
 
----
+A custom log triage and parsing tool designed...
 ---
 
 A custom log triage and parsing tool designed to automate the detection of common security incidents (like brute-force attempts, suspicious PowerShell executions, and Mimikatz usage) in JSON logs.
