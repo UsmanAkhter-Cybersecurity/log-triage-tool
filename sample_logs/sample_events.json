@@ -1,0 +1,15 @@
+{
+  "events": [
+    {"timestamp": "2026-07-13T10:00:00Z", "event_id": "4624", "host": "WORKSTATION-01", "user": "alice", "process_name": "explorer.exe"},
+    {"timestamp": "2026-07-13T10:01:15Z", "event_id": "4624", "host": "WORKSTATION-01", "user": "alice", "process_name": "outlook.exe"},
+    {"timestamp": "2026-07-13T11:00:05Z", "event_id": "4625", "host": "DC-01", "user": "administrator", "source_ip": "192.168.1.105"},
+    {"timestamp": "2026-07-13T11:00:08Z", "event_id": "4625", "host": "DC-01", "user": "administrator", "source_ip": "192.168.1.105"},
+    {"timestamp": "2026-07-13T11:00:11Z", "event_id": "4625", "host": "DC-01", "user": "administrator", "source_ip": "192.168.1.105"},
+    {"timestamp": "2026-07-13T11:05:00Z", "event_id": "4688", "host": "DC-01", "user": "administrator", "process_name": "powershell.exe", "command_line": "powershell.exe -Enc QmFzZTY0IEVuY29kZWQgQ29tbWFuZCBIZXJlIHRvIEV4ZWN1dGU="},
+    {"timestamp": "2026-07-13T11:06:22Z", "event_id": "4688", "host": "DC-01", "user": "administrator", "process_name": "mimikatz.exe", "image_path": "C:\\Windows\\Temp\\mimikatz.exe", "target_process": "lsass.exe"},
+    {"timestamp": "2026-07-13T11:08:14Z", "event_id": "5140", "host": "DC-01", "user": "administrator", "share_name": "ADMIN$"},
+    {"timestamp": "2026-07-13T11:10:00Z", "event_id": "4698", "host": "DC-01", "user": "SYSTEM"},
+    {"timestamp": "2026-07-13T11:12:30Z", "event_id": "1102", "host": "DC-01", "user": "administrator"}
+  ]
+}
+
