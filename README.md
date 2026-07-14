@@ -3,7 +3,7 @@
   <h1>⚡ LOG TRIAGE TOOL ⚡</h1>
   
   <p>
-    <img src="https://img.shields.io/badge/STATUS-UNDER%20CONSTRUCTION-orange?style=for-the-badge&logo=github&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/STATUS-UNDER%20CONSTRUCTION-orange?style=for-the-badge&logo=github&logoColor=white" height="100" />
   </p>
 
   <p align="center">
