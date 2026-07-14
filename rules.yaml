@@ -1,0 +1,31 @@
+- id: T1059_encoded_powershell
+  description: "Suspicious PowerShell with base64-encoded command"
+  mitre_attack: "T1059.001"
+  event_field: "command_line"
+  match_type: "regex"
+  pattern: "(?i)-enc(odedcommand)?\\s+[A-Za-z0-9+/=]{20,}"
+  severity: 8
+
+- id: T1003_lsass_access
+  description: "LSASS memory access (potential credential dumping)"
+  mitre_attack: "T1003.001"
+  event_field: "target_process"
+  match_type: "contains"
+  pattern: "lsass.exe"
+  severity: 9
+
+- id: T1021_admin_share_lateral_movement
+  description: "Access to administrative network share"
+  mitre_attack: "T1021.002"
+  event_field: "share_name"
+  match_type: "regex"
+  pattern: "(?i)(ADMIN\\$|C\\$)"
+  severity: 7
+
+- id: T1110_brute_force
+  description: "Failed logon attempt"
+  mitre_attack: "T1110"
+  event_field: "event_id"
+  match_type: "equals"
+  pattern: "4625"
+  severity: 3
