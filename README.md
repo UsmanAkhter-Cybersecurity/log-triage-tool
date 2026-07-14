@@ -1,11 +1,7 @@
 # 🛠️ log-triage-tool
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/warning.gif" width="160%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-UNDER_CONSTRUCTION-orange?style=for-the-badge&logo=github" height="140" />
+  <img src="https://user-images.githubusercontent.com/117325514/230182512-58e13711-de11-4475-b9f1-f0fa83c3e809.png" width="100%" />
 </p>
 ---
 
