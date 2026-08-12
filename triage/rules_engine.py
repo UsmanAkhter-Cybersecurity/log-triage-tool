@@ -12,12 +12,13 @@ SEVERITY_THRESHOLDS = [
 
 
 def load_rules(path: str) -> list: 
+	try:
+		with open(path, 'r') as f: 
+			rules = yaml.safe_load(f)
+	except yaml.YAMLError as exc:
+		raise ValueError(f"Failedm to parse rules file '{path}': {exc}") from exc
 
-	with open(path, 'r') as f: 
-		rules = yaml.safe_load(f)
-
-
-	required_keys = {"id", "description", "event_field", "match_type", "match_type", "pattern", "severity"}
+	required_keys = {"id", "description", "event_field", "match_type","pattern", "severity"}
 	valid_match_types = {"equals", "contains", "regex"}
 
 

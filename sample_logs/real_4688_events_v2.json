@@ -1,0 +1,452 @@
+﻿[
+    {
+        "TimeCreated":  "2026-08-12T17:08:45.4894481+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\taskhostw.exe",
+        "CommandLine":  "taskhostw.exe",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:08:44.9016700+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\dllhost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:08:20.7348718+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\taskhostw.exe",
+        "CommandLine":  "taskhostw.exe",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:08:19.2452637+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\rundll32.exe",
+        "CommandLine":  "rundll32.exe AppXDeploymentExtensions.OneCore.dll,ShellRefresh",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:08:15.3036678+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Windows\\SysWOW64\\auditpol.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\auditpol.exe\" /set \"/subcategory:Process Creation\" /success:enable",
+        "ParentProcessName":  "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:08:14.7304448+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\dllhost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:08:14.3868878+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\taskhostw.exe",
+        "CommandLine":  "taskhostw.exe",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:07:54.8805262+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-GB --service-sandbox-type=service --always-read-main-dll --metrics-shmem-handle=5092,i,4817556184990804480,6106825242566461236,524288 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709031289880246 --mojo-platform-channel-handle=7308 /prefetch:8",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:07:50.6425054+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\taskhostw.exe",
+        "CommandLine":  "taskhostw.exe",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:07:49.3999230+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\dllhost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:07:48.9298369+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\rundll32.exe",
+        "CommandLine":  "rundll32.exe AppXDeploymentExtensions.OneCore.dll,ShellRefresh",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:07:38.9553715+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\taskhostw.exe",
+        "CommandLine":  "taskhostw.exe",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:07:36.3463418+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\SearchFilterHost.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\SearchFilterHost.exe\" 0 800 804 812 8192 808 784 ",
+        "ParentProcessName":  "C:\\Windows\\System32\\SearchIndexer.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:07:12.5966607+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Windows\\SysWOW64\\auditpol.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\auditpol.exe\" /get \"/subcategory:Process Creation\"",
+        "ParentProcessName":  "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:07:04.8431054+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-GB --service-sandbox-type=service --always-read-main-dll --metrics-shmem-handle=8284,i,1821423586769339931,16201483638750493886,524288 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709030352838397 --mojo-platform-channel-handle=8984 /prefetch:8",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:55.4752634+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Windows\\SysWOW64\\auditpol.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\auditpol.exe\" /get /subcategory: \"Process Creation\"",
+        "ParentProcessName":  "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:27.2758932+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=chrome.mojom.ProfileImport --lang=en-GB --service-sandbox-type=none --always-read-main-dll --metrics-shmem-handle=8284,i,2129800053881613258,16167869921689897165,524288 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709029415796548 --mojo-platform-channel-handle=8952 /prefetch:8",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:24.2797453+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Windows\\System32\\conhost.exe",
+        "CommandLine":  "\\??\\C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1",
+        "ParentProcessName":  "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:24.2608202+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "CommandLine":  "\"C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe\" ",
+        "ParentProcessName":  "C:\\Windows\\explorer.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:22.6905274+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "LOCAL SERVICE",
+        "NewProcessName":  "C:\\Windows\\System32\\audiodg.exe",
+        "CommandLine":  "C:\\Windows\\system32\\AUDIODG.EXE 0x4a8 0x2d0",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:22.4693960+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\consent.exe",
+        "CommandLine":  "consent.exe 1140 468 00000263E62200E0",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:18.7215531+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-GB --service-sandbox-type=service --always-read-main-dll --metrics-shmem-handle=5108,i,2297595754174857096,8529219350274530085,524288 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709028478754699 --mojo-platform-channel-handle=8240 /prefetch:8",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:17.8306759+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:17.7072892+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\backgroundTaskHost.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\BackgroundTaskHost.exe\" -ServerName:BackgroundTaskHost.WebAccountProvider",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:17.4692507+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\backgroundTaskHost.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\backgroundTaskHost.exe\" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:03.2737224+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-GB --js-flags --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=44 --time-ticks-at-unix-epoch=-1786544955101492 --launch-time-ticks=5808168284 --always-read-main-dll --metrics-shmem-handle=7528,i,3629163732610980429,17356461962622176935,2097152 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709027541712850 --mojo-platform-channel-handle=8104 /prefetch:2",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:02.3069970+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-GB --js-flags --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=43 --time-ticks-at-unix-epoch=-1786544955101492 --launch-time-ticks=5807201964 --always-read-main-dll --metrics-shmem-handle=8748,i,5939684905061656462,17337741030857617891,2097152 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709026604671001 --mojo-platform-channel-handle=8108 /prefetch:1",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:06:02.0709289+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-GB --js-flags --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=42 --time-ticks-at-unix-epoch=-1786544955101492 --launch-time-ticks=5806967064 --always-read-main-dll --metrics-shmem-handle=8208,i,10318586392647329612,6816662101220517295,2097152 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709025667629152 --mojo-platform-channel-handle=7780 /prefetch:1",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:05:45.0612796+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k wusvcs -p -s WaaSMedicSvc",
+        "ParentProcessName":  "C:\\Windows\\System32\\services.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:05:44.6108505+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\sppsvc.exe",
+        "CommandLine":  "C:\\Windows\\system32\\sppsvc.exe",
+        "ParentProcessName":  "C:\\Windows\\System32\\services.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:05:44.4697662+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\MoUsoCoreWorker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\mousocoreworker.exe -Embedding",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:05:44.3210649+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:05:44.1356993+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\backgroundTaskHost.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\backgroundTaskHost.exe\" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:05:36.9312160+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-GB --service-sandbox-type=service --always-read-main-dll --metrics-shmem-handle=3700,i,7738832927732621109,2058527718426723757,524288 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709024730587303 --mojo-platform-channel-handle=8060 /prefetch:8",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:05:09.8639443+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\SearchFilterHost.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\SearchFilterHost.exe\" 0 800 804 812 8192 808 784 ",
+        "ParentProcessName":  "C:\\Windows\\System32\\SearchIndexer.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:05:03.9758870+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\backgroundTaskHost.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\backgroundTaskHost.exe\" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:05:03.9383346+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\taskhostw.exe",
+        "CommandLine":  "taskhostw.exe Logon",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:58.9128141+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-GB --service-sandbox-type=service --always-read-main-dll --metrics-shmem-handle=5040,i,14261062013417227612,6752452339088025386,524288 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709023793545454 --mojo-platform-channel-handle=3872 /prefetch:8",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:44.9954650+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-GB --js-flags --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=39 --time-ticks-at-unix-epoch=-1786544955101492 --launch-time-ticks=5729887897 --always-read-main-dll --metrics-shmem-handle=8236,i,17292522627229550311,15328915527829593271,2097152 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709022856503605 --mojo-platform-channel-handle=8500 /prefetch:1",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:44.5808185+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "DESKTOP-HCESIQL$",
+        "NewProcessName":  "C:\\Windows\\System32\\backgroundTaskHost.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\backgroundTaskHost.exe\" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca",
+        "ParentProcessName":  "C:\\Windows\\System32\\svchost.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:36.9651807+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-GB --js-flags --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=38 --time-ticks-at-unix-epoch=-1786544955101492 --launch-time-ticks=5721855216 --always-read-main-dll --metrics-shmem-handle=8320,i,11974140467746399640,11443933403448720628,2097152 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709021919461756 --mojo-platform-channel-handle=8288 /prefetch:1",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:36.3292237+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-GB --js-flags --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=37 --time-ticks-at-unix-epoch=-1786544955101492 --launch-time-ticks=5721222393 --always-read-main-dll --metrics-shmem-handle=7648,i,8760976473277677848,14412565445367210455,2097152 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709020982419907 --mojo-platform-channel-handle=4416 /prefetch:1",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:36.1924174+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-GB --js-flags --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=36 --time-ticks-at-unix-epoch=-1786544955101492 --launch-time-ticks=5721087718 --always-read-main-dll --metrics-shmem-handle=4308,i,10672987534788953735,4397639355333352637,2097152 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709020045378058 --mojo-platform-channel-handle=7780 /prefetch:1",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:33.9558198+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-GB --js-flags --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=35 --time-ticks-at-unix-epoch=-1786544955101492 --launch-time-ticks=5718851209 --always-read-main-dll --metrics-shmem-handle=8024,i,1821150482772098188,6993761184666309251,2097152 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709019108336209 --mojo-platform-channel-handle=7804 /prefetch:1",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:29.9102622+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=PooledProcess2 --lang=en-GB --service-sandbox-type=utility --always-read-main-dll --metrics-shmem-handle=7760,i,16303367337757673374,16709057402496700601,524288 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709018171294360 --mojo-platform-channel-handle=7212 /prefetch:8",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:28.1157546+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=PooledProcess2 --lang=en-GB --service-sandbox-type=utility --always-read-main-dll --metrics-shmem-handle=8024,i,4375231517422832578,13511912410914348973,524288 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709016297210662 --mojo-platform-channel-handle=7760 /prefetch:8",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:28.1112543+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=PooledProcess2 --lang=en-GB --service-sandbox-type=utility --always-read-main-dll --metrics-shmem-handle=7788,i,4719880002727817932,6209174509501772994,524288 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709014423126964 --mojo-platform-channel-handle=7768 /prefetch:8",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:27.9535124+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=PooledProcess2 --lang=en-GB --service-sandbox-type=utility --always-read-main-dll --metrics-shmem-handle=7888,i,18223552962929209668,3636648126116745057,524288 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709012549043266 --mojo-platform-channel-handle=6580 /prefetch:8",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:27.5685175+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=utility --utility-sub-type=on_device_model.mojom.OnDeviceModelService --lang=en-GB --service-sandbox-type=on_device_model_execution --always-read-main-dll --metrics-shmem-handle=4108,i,17083978316020499006,359397264668627726,524288 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709010674959568 --mojo-platform-channel-handle=4128 /prefetch:8",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    },
+    {
+        "TimeCreated":  "2026-08-12T17:04:27.2937468+01:00",
+        "EventId":  4688,
+        "Host":  "DESKTOP-HCESIQL",
+        "SubjectUserName":  "Labte",
+        "NewProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\151.0.4129.78\\identity_helper.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\151.0.4129.78\\identity_helper.exe\" --type=utility --utility-sub-type=winrt_app_id.mojom.WinrtAppIdService --lang=en-GB --service-sandbox-type=windows_package_identity --always-read-main-dll --metrics-shmem-handle=3676,i,13762350477209487622,10655490681013430786,524288 --field-trial-handle=2232,i,18226055216060341609,9552714299848010847,262144 --enable-features=msEdgePreLaunchFREAfterOOBE --variations-seed-version --pseudonymization-salt-handle=2236,i,18167247613103125310,8061363869262490094,4 --trace-process-track-uuid=3190709009737917719 --mojo-platform-channel-handle=8080 /prefetch:8",
+        "ParentProcessName":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    }
+]
