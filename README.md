@@ -9,8 +9,8 @@
 
 A lightweight, YAML-driven detection engine that parses Windows Event ID 
 4688 (Process Creation) telemetry and flags known credential-harvesting 
-tools. Built and validated in a Purple Team lab environment — attacks 
-were executed on a Windows 10 VM, captured via native Windows auditing, 
+tools. Built and validated in a controlled lab environment — attacks were 
+executed on a Windows 10 VM., captured via native Windows auditing, 
 and processed through the tool's normalization and rule-matching pipeline 
 to confirm real-world detection capability.
 
