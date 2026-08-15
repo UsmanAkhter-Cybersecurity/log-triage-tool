@@ -1,7 +1,7 @@
-# 🔧 Log Triage Tool: Windows Credential-Theft Detection Engine
+# 🔧 Log Triage Tool — Custom Python Security Automation 
 
-**A custom Python SIEM detection engine for identifying post-exploitation 
-credential-dumping activity in Windows Security event logs.**
+
+**A custom Python log analysis and detection tool for identifying post-exploitation credential-dumping activity in Windows Security event logs.**
 
 ---
 
