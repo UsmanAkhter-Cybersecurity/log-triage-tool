@@ -29,3 +29,19 @@
   match_type: "equals"
   pattern: "4625"
   severity: 3
+
+- id: T1003_mimikatz_execution
+  description: "Mimikatz credential-dumping tool execution"
+  mitre_attack: "T1003"
+  event_field: "process_name"
+  match_type: "regex"
+  pattern: "(?i)mimikatz(\\.exe)?"
+  severity: 9
+
+- id: T1003_mimikatz_commandline_indicators
+  description: "Command line consistent with Mimikatz module usage (sekurlsa, logonpasswords, etc.)"
+  mitre_attack: "T1003"
+  event_field: "command_line"
+  match_type: "regex"
+  pattern: "(?i)(sekurlsa::|logonpasswords|privilege::debug)"
+  severity: 9

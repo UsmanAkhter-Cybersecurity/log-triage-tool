@@ -1,6 +1,7 @@
 import os
 import json
 import argparse
+from triage.parser import parse_json_logs
 from triage.rules_engine import load_rules, evaluate
 
 def main():
@@ -19,26 +20,13 @@ def main():
     rules = load_rules(args.rules)
 
     # 2. Target the structured JSON logs in the directory
-    json_path = os.path.join(args.logs, "sample_events.json")
-    
-    if not os.path.exists(json_path):
-        print(f"Error: Structured log file '{json_path}' not found.")
+    if not os.path.exists(args.logs):
+        print(f"Error: Log file '{args.logs}' not found.")
         return
 
-    print(f"Scanning directory '{args.logs}' ... Found sample_events.json")
-    print(f"\n[Analyzing] sample_events.json")
+    print(f"\n[Analyzing] {args.logs}")
     print("-" * 40)
-
-    # 3. Read the events
-    with open(json_path, 'r') as file:
-        try:
-            data = json.load(file)
-            # Pull out the actual list inside the "events" key
-            events = data.get("events", [])
-        except json.JSONDecodeError:
-            print("Error: sample_events.json is not valid JSON.")
-            return
-
+    events = parse_json_logs(args.logs)
     # 4. Run the data through your rules engine!
     enriched_events = evaluate(events, rules)
 
