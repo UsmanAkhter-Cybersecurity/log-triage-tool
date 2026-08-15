@@ -37,6 +37,7 @@ to confirm real-world detection capability.
 - `sample_logs/` — sanitized real and synthetic test data
 
 🔍 **Verification & Testing**
+<img width="1456" height="819" alt="preview" src="https://github.com/user-attachments/assets/2bccba5d-4eb8-4cad-bf3e-46f24365e1be" />
 
 The tool was validated against live-captured telemetry, not synthetic 
 data alone:
